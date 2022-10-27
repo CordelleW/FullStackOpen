@@ -19,5 +19,5 @@ const App = () => {
     </div>
   )
 }
-
+//Passing state to child components
 export default App
