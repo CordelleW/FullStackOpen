@@ -25,7 +25,7 @@ const App = () => {
     </div>
   )
 }
-//Passing state to child components
+
 
 const Display = (props) => {
   return (
@@ -41,3 +41,5 @@ const Button = (props) => {
   )
 }
 export default App
+
+//Changes in state cuase rerendering
