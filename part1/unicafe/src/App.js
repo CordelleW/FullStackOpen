@@ -49,4 +49,4 @@ const App = () => {
 }
 export default App
 
-//Changes in state cuase rerendering
+//Debugging React Applications
